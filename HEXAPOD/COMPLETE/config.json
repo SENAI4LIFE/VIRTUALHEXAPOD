@@ -1,0 +1,8 @@
+{        
+    "documentId": "b8b254ae2dc4b877212314ad",
+    "outputFormat": "urdf",
+    "assemblyName": "ROBOT",
+    "ignore": {
+        "CORPO_CENTER": "collision"
+    }
+}
