@@ -12,13 +12,13 @@ This project is structured to transition from gait control to machine learning. 
 ```bash
 python3 -m venv TIFFANY
 ```
-# Navigate to project directory
-```bash
-cd ~/HEXAPOD/COMPLETE
-```
 # Activate environment
 ```bash
 source TIFFANY/bin/activate
+```
+# Navigate to project directory
+```bash
+cd ~/HEXAPOD/COMPLETE
 ```
 # Install dependencies
 ```bash
