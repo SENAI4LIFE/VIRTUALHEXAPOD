@@ -49,3 +49,12 @@ Arrows: Walk / Rotate
 E: Power On / Initialize
 
 R: Power Off / Shutdown
+
+
+#train
+```bash
+pip install stable-baselines3
+pip install shimmy
+pip install tensorboard
+pip install gymnasium
+```
