@@ -26,7 +26,7 @@ source TIFFANY/bin/activate
 
 # Navigate to project directory
 ```bash
-cd ~/HEXAPOD/COMPLETE
+cd ~/VIRTUALHEXAPOD/HEXAPOD/COMPLETE
 ```
 
 # Install dependencies
