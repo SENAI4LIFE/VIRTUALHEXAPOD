@@ -29,10 +29,11 @@ source TIFFANY/bin/activate
 cd ~/VIRTUALHEXAPOD/HEXAPOD/COMPLETE
 ```
 ## Shortcut
-Paste at the end of bash
 ```bash
 nano ~/.bashrc
 ```
+Paste at the end of bash
+
 ```bash
 alias TIFFANY='source ~/TIFFANY/bin/activate && cd ~/HEXAPOD/COMPLETE'
 ```
