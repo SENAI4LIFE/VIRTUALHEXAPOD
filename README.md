@@ -29,6 +29,7 @@ source TIFFANY/bin/activate
 cd ~/VIRTUALHEXAPOD/HEXAPOD/COMPLETE
 ```
 ## Shortcut
+Paste at the end of bash
 ```bash
 nano ~/.bashrc
 ```
