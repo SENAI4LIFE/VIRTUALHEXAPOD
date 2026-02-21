@@ -1,5 +1,5 @@
 # Project Description
-This project is a simulation environment for a 3DOF-per-leg hexapod named TIFFANY. The idea is to simulate movements and robot adaptance in a virtual setting.
+This project is a simulation environment for a 3DOF-per-leg hexapod named TIFFANY. The idea is to improve movements and robot adaptance in a virtual setting.
 
 # Modeling and Tools
 The project uses onshape-to-robot to convert CAD assemblies into URDF files with collision and inertial data.
