@@ -8,6 +8,11 @@ PyBullet serves as the primary physics engine for tests.
 # Future Development
 This project is structured to transition from gait control to machine learning. Future versions will implement Gymnasium to apply Reinforcement Learning. 
 
+
+# Cloning the Repository
+```bash
+git clone https://github.com/SENAI4LIFE/VIRTUALHEXAPOD.git
+``
 # Create virtual environment
 ```bash
 python3 -m venv TIFFANY
@@ -23,7 +28,6 @@ cd ~/HEXAPOD/COMPLETE
 # Install dependencies
 ```bash
 pip install --upgrade pip
-pip install onshape-to-robot
 pip install pybullet
 pip install numpy
 ```
