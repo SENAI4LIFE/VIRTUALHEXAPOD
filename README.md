@@ -51,7 +51,7 @@ E: Power On / Initialize
 R: Power Off / Shutdown
 
 
-# train
+# Train
 ```bash
 pip install stable-baselines3
 pip install shimmy
