@@ -36,8 +36,9 @@ nano ~/.bashrc
 alias TIFFANY='source ~/TIFFANY/bin/activate && cd ~/HEXAPOD/COMPLETE'
 ```
 or
+```bash
 alias TIFFANY='source ~/TIFFANY/bin/activate && cd ~/VIRTUALHEXAPOD/HEXAPOD/COMPLETE'
-
+```
 # Install dependencies
 ```bash
 pip install --upgrade pip
