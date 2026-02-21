@@ -28,7 +28,13 @@ source TIFFANY/bin/activate
 ```bash
 cd ~/VIRTUALHEXAPOD/HEXAPOD/COMPLETE
 ```
-
+## Shortcut
+```bash
+nano ~/.bashrc
+```
+```bash
+alias TIFFANY='source ~/TIFFANY/bin/activate && cd ~/HEXAPOD/COMPLETE'
+```
 # Install dependencies
 ```bash
 pip install --upgrade pip
