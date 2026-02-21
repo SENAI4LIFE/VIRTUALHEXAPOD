@@ -12,25 +12,30 @@ This project is structured to transition from gait control to machine learning. 
 # Cloning the Repository
 ```bash
 git clone https://github.com/SENAI4LIFE/VIRTUALHEXAPOD.git
-``
+```
+
 # Create virtual environment
 ```bash
 python3 -m venv TIFFANY
 ```
+
 # Activate environment
 ```bash
 source TIFFANY/bin/activate
 ```
+
 # Navigate to project directory
 ```bash
 cd ~/HEXAPOD/COMPLETE
 ```
+
 # Install dependencies
 ```bash
 pip install --upgrade pip
 pip install pybullet
 pip install numpy
 ```
+
 # Start Simulation
 ```bash
 python3 main.py
