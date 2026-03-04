@@ -1,5 +1,5 @@
 # Project Description
-This project is a simulation/workaround for a 3 degree of freedom (DOF) per leg hexapod named Tiffany. <br>
+This project is a simulation/workaround for a 3 degree of freedom (DOF) per leg hexapod robot named Tiffany. <br>
 Robot is https://github.com/Penguin-Lab/tiffany.  <br>
 
 # Modeling and Tools
