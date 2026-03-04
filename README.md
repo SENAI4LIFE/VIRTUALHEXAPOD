@@ -26,12 +26,12 @@ git clone https://github.com/SENAI4LIFE/tiffany_sim.git
 
 ### Create virtual environment
 ```bash
-source ~/tiffany/bin/activate
+python3 -m venv tiffany
 ```
 
 ### Activate environment
 ```bash
-python3 -m venv tiffany
+source ~/tiffany/bin/activate
 ```
 Shortcut
 ```bash
