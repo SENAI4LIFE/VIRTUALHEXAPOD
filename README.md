@@ -3,10 +3,10 @@ This project is a simulation/workaround for a 3 degree of freedom (DOF) per leg 
 Robot is https://github.com/Penguin-Lab/tiffany.  <br>
 
 # Modeling and Tools
-It was firstly prototyped using Autodesk Fusion, then .stl exported.<br>
+It was firstly prototyped using Autodesk Fusion, then .step exported.<br>
 ![Fusion Model](./fusion.png)
 # Figure 1 - Fusion Model
-.stl files were inserted, duplicated and mirrowed into a assembly, mate connectors joined parts and set degrees of freedom.
+.step files were inserted, duplicated and mirrowed into a assembly, mate connectors joined parts and set degrees of freedom.
 ![Onshape Model](./onshape.png)
 # Figure 2 - Onshape Model
 
