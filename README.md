@@ -36,15 +36,16 @@ config.json file:
 
 ```
 
-
+After setting up the files, get the tool:
 ```
 pip install onshape-to-robot
 ```
-then, source your keys using:
-
-
+then, source your keys path using:
 ```
 source keys
+```
+```
+onshape-to-robot pybullet (path of the folder with the config.json)
 ```
 # (In Development)
 Refining the kinematics inside pybullet before going through ros and gazebo implementation.
