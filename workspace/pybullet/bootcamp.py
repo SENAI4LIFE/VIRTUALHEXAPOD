@@ -1,7 +1,7 @@
 import pybullet as p
 import numpy as np
 
-DIFFICULTY  = 3.0
+DIFFICULTY  = 1.0
 DIFF_MIN    = 1.0
 DIFF_MAX    = 5.0
 PROP_SIZE   = 1.0
